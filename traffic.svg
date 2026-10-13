@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="160" viewBox="0 0 120 160" role="img" aria-label="traffic light">
+  <rect x="30" y="10" width="60" height="140" rx="16" fill="#2b2f36"/>
+  <rect x="30" y="10" width="60" height="140" rx="16" fill="none" stroke="#15181d" stroke-width="3"/>
+  <circle cx="60" cy="42" r="16" fill="#e0362c"/>
+  <circle cx="60" cy="80" r="16" fill="#f2b705"/>
+  <circle cx="60" cy="118" r="16" fill="#2ecc71"/>
+</svg>
